@@ -1,0 +1,19 @@
+a .bi-whatsapp{
+    font-size: 25px;
+    color: green;
+}
+a .bi-instagram{
+    font-size: 25px;
+    color: palevioletred;
+}
+.bi-telephone{
+    font-size: 25px;
+    color: green;
+}
+.numLink1,.numLink2{
+    text-decoration: none;
+    color: blue;
+}
+nav{
+    position: sticky !important;
+}
